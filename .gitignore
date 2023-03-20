@@ -1,10 +1,10 @@
 .DS_Store
-.vite-ssg-dist
-.vite-ssg-temp
+app/.vite-ssg-dist
+app/.vite-ssg-temp
+app/dist
+app/dist-ssr
+app/node_modules
+app/cypress/downloads
 *.local
-dist
-dist-ssr
-node_modules
-.idea/
 *.log
-cypress/downloads
+.history

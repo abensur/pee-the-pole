@@ -1,0 +1,38 @@
+<script lang="ts" setup>
+
+</script>
+
+<template>
+  <div class="upgrades" px-2>
+    <h2 text-center py-4 uppercase>
+      upgrades
+    </h2>
+    <div class="list">
+      <small italic opacity-40>unlimited</small>
+      <div flex items-center>
+        Kidneys
+        <div
+          ml-auto i-carbon-information-square
+        />
+      </div>
+      <p><small>daily pee production</small></p>
+      <div flex items-center>
+        Urethra  <div ml-auto i-carbon-information-square />
+      </div>
+      <small italic opacity-40>limited</small>
+      <div flex items-center>
+        Bladder  <div ml-auto i-carbon-information-square />
+      </div>
+      <div flex items-center>
+        Ureters  <div ml-auto i-carbon-information-square />
+      </div>
+
+    </div>
+  </div>
+</template>
+
+<style scoped>
+.list > div {
+  margin-bottom: 2rem;
+}
+</style>

@@ -1,0 +1,9 @@
+{
+  "extends": "@antfu",
+  "globals": {
+    "google": "readonly"
+  },
+  "rules": {
+    "no-console": "off"
+  }
+}

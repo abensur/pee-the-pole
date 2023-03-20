@@ -1,0 +1,46 @@
+@import './markdown.css';
+
+:root {
+  --pink: #ED7AFB;
+  --blue: #242777;
+  --purple: #5F668D;
+  --black: #1D1B40;
+  --lavender: #BB7BFC;
+}
+
+html,
+body,
+#app {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: 'Press Start 2P', cursive;
+}
+
+#app {
+  border: 4px solid var(--black);
+}
+
+html.dark {
+  background: #121212;
+  color-scheme: dark;
+}
+
+#nprogress {
+  pointer-events: none;
+}
+
+#nprogress .bar {
+  background: rgb(13,148,136);
+  opacity: 0.75;
+  position: fixed;
+  z-index: 1031;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 2px;
+}
+
+.gmnoprint, a {
+  display: none;
+}

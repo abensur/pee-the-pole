@@ -1,0 +1,51 @@
+// stats
+
+// kidneys, ureter, bladder, urethra
+
+unlimited upgradable stats
+    kidney (pee daily production)
+    urethra (pee distance)
+
+limited upgradable stats
+    bladder (maximum pee per use)
+        Chrono-Elastic: unlimited
+        Quantum Rubber: 90% 
+        Hyperelasticium: 80%
+        Morphic Polymer: 70%
+        Nega-Rubber: 60%
+        
+        Polyurethane: 50%
+        PVC: 40%
+        Rubber: 30%
+        Sillicone: 20%
+        TPE: 10%
+        
+    ureter (maximum pee speed)
+        Warp drive: instant
+        Darkmatter relay: 2s
+        Graviton-line: 3s
+        Entanglement conduit: 4s
+        Neutrino signal: 5s
+
+        Optical fiber: 6s
+        USB: 7s
+        Coaxial cable: 8s
+        twisted-pair copper cable: 9s
+        DSL: 10s
+
+
+       
+
+
+
+
+
+        Chrono-Elastic: This material does not have any elastic property. However, it can manipulate time thus manipulate mass. 
+
+        Quantum Rubber: A material that can be stretched or compressed without changing its volume.
+
+        Hyperelasticium: Can stretch up to 10 times its original length without breaking. It is also resistant to extreme temperatures and can withstand exposure to radiation.
+
+        Morphic Polymer: A rubber-like material that can change its shape and texture on demand. It can be molded into any shape, and then revert back to its original form when no longer needed.
+        
+        Nega-Rubber: A Polyurethane exposed to negative energy, it sometimes shrinks when stretched and expands when compressed. It also has the ability to absorb and store energy, making it useful in energy storage applications.

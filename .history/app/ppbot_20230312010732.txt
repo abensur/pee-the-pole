@@ -1,0 +1,64 @@
+// atributes
+
+// kidneys, renal pelvis, ureter, bladder, urethra
+
+// kidneys
+// Your p.p.bots's kidneys are like special filters that clean it's body circuits and make pee. The pee goes down a cable called a ureter, which connects the kidney to a place called the bladder.
+
+// ureter
+// The ureter is special cable that connects the kidney to the bladder.
+
+// bladder
+// The bladder is like a little balloon that holds the pee until your p.p.bot is ready to go. When your p.p.bot pees, the pee travels out of the bladder and through another cable called the urethra.
+
+
+// urethra
+// The urethra is like a little straw that helps the pee come out of your p.p.bot.
+
+unlimited upgradable stats
+    kidney (pee daily production)
+    urethra (pee distance)
+
+limited upgradable stats
+    bladder (maximum pee per use)
+        Chrono-Elastic: 100%
+        Quantum Rubber: 90%
+        Hyperelasticium: 80%
+        Morphic Polymer: 70%
+        Nega-Rubber: 60%
+        
+        Polyurethane: 50%
+        PVC: 40%
+        Rubber: 30%
+        Sillicone: 20%
+        TPE: 10%
+        
+    ureter (maximum pee speed)
+        Warp drive: instant
+        Darkmatter relay: 1s
+        Graviton-line: 2s
+        Entanglement conduit: 3s
+        Neutrino signal: 4s
+
+        Optical fiber: 5s
+        USB: 6s
+        Coaxial cable: 7s
+        twisted-pair copper cable: 4s
+        DSL: 10s
+
+
+       
+
+
+
+
+
+        Chrono-Elastic: This material does not have any elastic property. However, it can manipulate time thus manipulate mass. 
+
+        Quantum Rubber: A material that can be stretched or compressed without changing its volume.
+
+        Hyperelasticium: Can stretch up to 10 times its original length without breaking. It is also resistant to extreme temperatures and can withstand exposure to radiation.
+
+        Morphic Polymer: A rubber-like material that can change its shape and texture on demand. It can be molded into any shape, and then revert back to its original form when no longer needed.
+        
+        Nega-Rubber: A Polyurethane exposed to negative energy, it sometimes shrinks when stretched and expands when compressed. It also has the ability to absorb and store energy, making it useful in energy storage applications.
